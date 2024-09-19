@@ -1,0 +1,16 @@
+u git comand bashu se sa 
+touch imefajla.ext
+kreiraju fajlovi
+ulazi se u foldere sa cd kao i u cmd-u
+
+sa 
+git status 
+se proverava status, vide se fajlovi koji su crveni.
+
+sa
+git add .
+se dodaju svi fajlovi repozitorijumu ali nisu jos uvek comitovani (sad su zeleni)
+
+posle git init moras da uradis git config gde unses identitet. za lokalnu bey --global a za Github ce verovatno trebatu
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
