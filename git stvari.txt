@@ -1,4 +1,0 @@
-u git comand bashu se sa 
-touch imefajla.ext
-kreiraju fajlovi
-ulazi se u foldere sa cd kao i u cmd-u
